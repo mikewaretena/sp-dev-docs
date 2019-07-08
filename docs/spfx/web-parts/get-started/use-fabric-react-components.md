@@ -47,7 +47,7 @@ You can also follow these steps by watching this video on the SharePoint PnP You
     - Select **SharePoint Online only (latest)**, and select <kbd>ENTER</kbd>.
     - Select **Use the current folder** for where to place the files.
     - Select **Y** to require the extension to be installed on each site explicitly when it's being used.
-    - Select **N** on the question if solution contains unique permissions.cd
+    - Select **N** on the question if solution contains unique permissions.
     - Select **WebPart** as the client-side component type to be created.
 
 1. The next set of prompts ask for specific information about your web part:
